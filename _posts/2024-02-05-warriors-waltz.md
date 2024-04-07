@@ -1,7 +1,7 @@
 ---
 title: "Warrior's Waltz"
 categories:
-  - Blog
+   - Creative Writing
 tags:
   - Post Formats
   - notice

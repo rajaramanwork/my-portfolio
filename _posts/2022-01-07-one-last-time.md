@@ -1,7 +1,7 @@
 ---
 title: "One Last Time"
 categories:
-  - Blog
+   - Creative Writing
 tags:
   - Post Formats
   - readability

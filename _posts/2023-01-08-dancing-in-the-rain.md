@@ -1,7 +1,7 @@
 ---
 title: "Dancing in the rain"
 categories:
-  - Blog
+   - Creative Writing
 tags:
   - chat
   - Post Formats

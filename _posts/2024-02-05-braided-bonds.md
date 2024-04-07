@@ -1,7 +1,7 @@
 ---
 title: "Braided Bonds"
 categories:
-  - Blog
+   - Creative Writing
 tags:
   - Post Formats
   - quote
