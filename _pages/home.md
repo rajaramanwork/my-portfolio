@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash-background.jpg
   actions:
-    - label: "<a href=''><img src='/assets/images/scholastics.jpg' width='90' height='90' style='display:block;border:0;'></a>"
+    - label: "<a href=''><img src='https://rajaramanwork.github.io/my-portfolio/assets/images/scholastics.jpg' width='90' height='90' style='display:block;border:0;'></a>"
 excerpt: >
   Its wings lift as it prepares to leave, defying its greatest fear, and taking flight over the ground.
 feature_row:
