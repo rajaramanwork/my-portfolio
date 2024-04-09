@@ -13,22 +13,22 @@ feature_row:
   - image_path: /assets/images/research.jpg
     alt: "customizable"
     title: "Research"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Everything from AI, Machine Learning, BioInformatics to Statistics. Capstone Projects, Case Studies"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/app-development.jpg
     alt: "fully responsive"
     title: "App Development"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Web Apps, Machine Learning Models, Genomics Apps using Ruby, Markdown, CSS, Python, BioPython, C#, Jupyter"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/creative-writing.jpg
     alt: "100% free"
     title: "Creative Writing"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    excerpt: "Prose / Free Verse Poetry, Short Stories, Science Fiction & Fantasy, Personal Essay & Memoir."
+    url: "/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
