@@ -62,7 +62,7 @@ The data sets used to produce results in this presentation were taken from <i>Ka
 - I used the programming languages: <i>Python and Panda</i> - for data loading and processing, <i>Matplotlib</i> for data Visualization and <i>sklearn</i> for machine learning and statistical modeling. Also, Jupyter was used as a web-based interactive development environment for developing the models and visualization. 
 - Machine Learning models are a multi-step process depicted in the below figure:
 
-![Modeling process](/assets/images/modeling-process.png)
+![Modeling process](https://rajaramanwork.github.io/my-portfolio/assets/images/modeling-process.png)
 
 ### Modeling Principles  
 - Many machine learning algorithms fail if the dataset contains missing values.
@@ -83,7 +83,7 @@ The data sets used to produce results in this presentation were taken from <i>Ka
 - Cardiovascular and Stroke Detection Service
 - Notification Service
 
-![Bioinformatics Architecture](/assets/images/bioinfoomatics-architecture.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/bioinfoomatics-architecture.png)
 
 ### Pre-processing - Data Cleaning
 The dataset has 5110 rows. Count indicates 201 bmi null values, 1544 smoking_status with unknown values among the former smokers, never smoked, smokes. The following statistical techniques were used to address missing values & unwanted rows. 
@@ -91,7 +91,7 @@ The dataset has 5110 rows. Count indicates 201 bmi null values, 1544 smoking_sta
 - smoking_status: 30.21% of unknown values of the entire population, 18.8% of unknown values of stroke population. These values cannot be ignored. Categorical Variables are typically addressed by Univariate or  Multivariate Analysis. Since there are multiple features that influence stroke occurrence as identified in the Top Correlations, I chose Multi-Variate Analysis. Out of all the techniques tested, LogisticRegression was considered best in terms of  accuracy(Handling - Outlier Data as Missing Values through Imputation Methods) for 25% to 75% in the Training/Testing  of Datasets. 
 - gender – one of the rows was labeled other, which is trivial amidst 5110 rows so it was deleted from the row in the panda Dataframe  
 
-![Bioinformatics Architecture](/assets/images/stroke_table1.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_table1.png)
 
 ### Pre-Processing - Data Reduction
 This step is meant to reduce data dimensions, increase ML Model Performance, and accuracy. 
@@ -117,7 +117,7 @@ The following statistical techniques were applied to the columns.
 ### Pre-Processing - Data Partitioning
 Split datasets into training and testing datasets. We used a 70-30% training / test dataset ratio.
 
-![Bioinformatics Architecture](/assets/images/stroke_table2.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_table2.png)
 
 ### Model Training & Test Runs
 - Model training is the most important part of the machine learning process as it results in a working model which will eventually be validated, tested and deployed. The model’s performance during training will determine how well it will work when put into an application for the users. Both the quality of the training data and the choice of the algorithm are central to the model training phase.
@@ -154,36 +154,36 @@ Split datasets into training and testing datasets. We used a 70-30% training / t
 
 ## RESULTS
 <div style="text-align: center;"><b>Corelation of Model Parameters</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig1.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig1.png)
 <br>
 
 <div style="text-align: center;"><b>Model Run - Prediction dataset results</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig2.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig2.png)
 <br>
 
 <div style="text-align: center;"><b>Distribution of Model Parameters against Target Variable <br> ( Cardiovascular Disease)</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig3.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig3.png)
 <br>
 
 <div style="text-align: center;"><b>Distribution of Model Parameters against Target Variable <br> ( Stroke Detection)</b></div>
 <div style="text-align: justify;">
 Problem with this because of Imbalanced Data  of Hypertension & HeartDisease for Stroke Occurrence the feature importance appears to the bottom, which is not medically true. We have an explanation of it using statistics in the model code. But Age, Average Glucose Level and bmi are critical features of occurence of heart stroke
 </div>
-![Bioinformatics Architecture](/assets/images/stroke_fig4.png)
-![Bioinformatics Architecture](/assets/images/stroke_fig5.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig4.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig5.png)
 
 <div style="text-align: center;"><b>Data Scaling / Pre-Scaled datasets</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig6.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig6.png)
 <br>
 
 <div style="text-align: center;"><b>Data Scaling / Post-Scaled datasets</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig7.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig7.png)
 <br>
 
 <div style="text-align: center;"><b>Stroke Detection Accuracy</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig8.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig8.png)
 <br>
 
 <div style="text-align: center;"><b>Confusion Matrix</b></div>
-![Bioinformatics Architecture](/assets/images/stroke_fig9.png)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig9.png)
 <br>
