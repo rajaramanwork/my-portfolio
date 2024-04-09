@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/app-development.jpg
     alt: "fully responsive"
     title: "App Development"
-    excerpt: "Web Apps, Machine Learning Models, Genomics Apps, Productive Apps, Commuunity apps. Apps built using Ruby, Markdown, CSS, Python, BioPython, C#, Jupyter"
+    excerpt: "Web Apps, Machine Learning Models, Genomics Apps, Productive Apps, Community apps. Apps built using Ruby, Markdown, CSS, Python, BioPython, C#, Jupyter"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
