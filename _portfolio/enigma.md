@@ -6,7 +6,7 @@ header:
   teaser: assets/images/enigma.jpg
 sidebar:
   - title: "Prose Poetry"
-    image: http://placehold.it/350x250
+    image: /assets/images/award_certificate_honorable_mention.jpeg
     image_alt: "logo"
     text: "Free verse is a popular style of modern poetry, that are free form, no defined boundaries"
   - title: "About"
