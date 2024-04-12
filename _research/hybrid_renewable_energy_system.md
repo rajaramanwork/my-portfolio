@@ -8,7 +8,7 @@ sidebar:
   - title: "Hybrid Renewable Energy System"
     image: /assets/images/engineering-girl-2022-feedback.png
     image_alt: "logo"
-    text: "Renewable Energy"
+    text: "Presented at Engineering Girl 2022"
   - title: "Description"
     text: "Solar and Wind Energy Hybrid Renewable Systems are the ideal Affordable and Clean Energy solution for generating electricity and economic growth in rural Africa."
 ---
