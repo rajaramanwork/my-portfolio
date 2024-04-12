@@ -7,7 +7,8 @@ tags:
   - readability
   - standard
 ---
-###### **Scholastics Arts and Writing Award ( Gold Key )** 
+**Scholastics Arts and Writing Award ( Honorable Mention )**{: style="color: #00008B; opacity: 0.80;font-weight: bold;" } 
+
 One last time.<br>
 One last time,<br>
 may I walk downtown,<br> 
