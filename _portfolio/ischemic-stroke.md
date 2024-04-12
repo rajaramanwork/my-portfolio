@@ -189,4 +189,4 @@ Problem with this because of Imbalanced Data  of Hypertension & HeartDisease for
 <br>
 
 ## SOURCE CODE
-[title](https://github.com/aditirajaraman/ischemic-stroke-detection)
+[Machine Learning Models](https://github.com/aditirajaraman/ischemic-stroke-detection)
