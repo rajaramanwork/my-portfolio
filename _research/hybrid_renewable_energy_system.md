@@ -19,7 +19,7 @@ Solar and Wind Energy Hybrid Renewable Systems are the ideal Affordable and Clea
 </div>
 
 <br>
-![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/HybridEnergySolution.jpg)
+![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/HybridEnergySolution.JPG)
 
 <div style="text-align: justify;">
 As shown in the diagram, fields of solar panels can bring great masses of energy to Africa’s most rural areas. Africa is often considered and referred to as the "Sun continent," the continent where the Sun's influence is the greatest. According to the "World Sunshine Map," Africa receives many more hours of bright sunshine during the course of the year than any other continent. With 25% of Africa covered in desert, solar irradiance is considered to have the most potential in providing any African location with electricity. Some areas receive up to 2000 kWh/m²/year of direct sunlight. 
