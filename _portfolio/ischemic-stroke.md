@@ -187,3 +187,6 @@ Problem with this because of Imbalanced Data  of Hypertension & HeartDisease for
 <div style="text-align: center;"><b>Confusion Matrix</b></div>
 ![Bioinformatics Architecture](https://rajaramanwork.github.io/my-portfolio/assets/images/stroke_fig9.png)
 <br>
+
+## SOURCE CODE
+https://github.com/aditirajaraman/ischemic-stroke-detection
