@@ -15,5 +15,5 @@ sidebar:
 
 ## ABSTRACT
 <div style="text-align: justify;">
-Solar and Wind Energy Hybrid Renewable Systems are the ideal Affordable and Clean Energy solution for generating electricity and economic growth in rural Africa.
+An application that allows users to receive programming assistance for code review, code analysis, code optimization using Chat GPT - Large Language Models. 
 </div>
