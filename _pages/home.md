@@ -14,7 +14,7 @@ feature_row:
     alt: "customizable"
     title: "Research"
     excerpt: "AI, Machine Learning, BioInformatics, Genomics Sequence Analysis,  Epigentics, Computational Chemistry, Capstone Projects, Case Studies"
-    url: "/docs/configuration/"
+    url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/app-development.jpg
