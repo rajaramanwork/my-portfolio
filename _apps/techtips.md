@@ -1,5 +1,5 @@
 ---
-title: "CodeMojo"
+title: "Code Mojo"
 excerpt: "Enabling programmers from various backgrounds and skill sets to leverage ChatGPT for Code Review, Code Optimization & Code Analysis"
 header:
   image: /assets/images/code-mojo.jpg
